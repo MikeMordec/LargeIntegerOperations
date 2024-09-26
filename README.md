@@ -42,3 +42,4 @@ Contributions are welcome! If you would like to contribute to this project, plea
     Make your changes and commit them (git commit -m 'Add some feature').
     Push to the branch (git push origin feature/YourFeature).
     Create a new Pull Request.
+
